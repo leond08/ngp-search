@@ -35,8 +35,8 @@ import com.liferay.portal.kernel.util.Validator;
 import com.liferay.portal.kernel.util.WebKeys;
 
 import ngp.search.core.api.results.item.ResultsItemBuilder;
-import ngp.search.core.imp.util.NgpSearchUtil;
 import ngp.search.core.impl.query.QueryBuilderImpl;
+import ngp.search.core.impl.util.NgpSearchUtil;
 
 /**
  * Abstract base result builder class

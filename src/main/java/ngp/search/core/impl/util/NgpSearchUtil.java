@@ -1,5 +1,5 @@
 
-package ngp.search.core.imp.util;
+package ngp.search.core.impl.util;
 
 import com.liferay.asset.publisher.web.constants.AssetPublisherPortletKeys;
 import com.liferay.portal.kernel.exception.PortalException;
